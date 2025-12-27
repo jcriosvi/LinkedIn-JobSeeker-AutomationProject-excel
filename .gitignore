@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Dev files
+prueba.py
+ubicar.xy
+comandos.txt
+img.png
+logo_chrome.png
